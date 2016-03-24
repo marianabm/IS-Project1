@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<researcher>
+	<name>Nuno Laranjeiro</name>
+	<citations>
+		<total>340</total>
+
+		<numberOfCitations year="2010">30</numberOfCitations>
+		<numberOfCitations year="2011">35</numberOfCitations>
+		<numberOfCitations year="2012">52</numberOfCitations>
+		<numberOfCitations year="2013">56</numberOfCitations>
+		<numberOfCitations year="2014">51</numberOfCitations>
+		<numberOfCitations year="2015">48</numberOfCitations>
+		
+	</citations>
+	
+	<publications>		
+	
+		<publication>
+			<title>Robustness-Driven Resilience Evaluation of Self-Adaptive Software Systems</title>
+			<author>Javier Cámara</author>
+			<author>Rogério de Lemos</author>
+			<author>Nuno Laranjeiro</author>
+			<author>Rafael Ventura</author>
+			<author>Marco Vieira</author>
+			<date>2015/5/4</date>
+			<additionalInformation>	</additionalInformation>
+			<publisher>IEEE</publisher>
+			<description>
+				Abstract—An increasingly important requirement for certain classes of software-intensive 
+				systems is the ability to self-adapt their structure and behavior at run-time when reacting to 
+				changes that may occur to the system, its environment, or its goals. A major challenge 
+				related to self-adaptive software systems is the ability to provide assurances of their 
+				resilience when facing changes. Since in these systems, the components that act as 
+				controllers of a target system incorporate highly complex software, there is the need to ...
+			</description>
+
+			<citationInformation>
+
+				<totalCitations>1</totalCitations>
+				
+				<citation format="Chicago" year="2015">
+					Quinn, Heather, Zachary Baker, Tom Fairbanks, Justin L. Tripp, and George Duran. "Software Resilience and the Effectiveness of Software Mitigation in Microcontrollers." Nuclear Science, IEEE Transactions on 62, no. 6 (2015): 2532-2538.
+				</citation>
+				<citation format="Chicago" year="">
+					Wu, Yiqi, Fazhi He, Dejun Zhang, and Xiaoxia Li. "Service-Oriented Feature-Based Data Exchange for Cloud-Based Design and Manufacturing."
+				</citation>
+
+
+			</citationInformation>
+			
+		</publication>
+
+		<publication>
+			<title>Understanding Interoperability Issues of Web Service Frameworks</title>
+			<author>Ivano Alessandro Elia</author>
+			<author>Nuno Laranjeiro</author>
+			<author>Marco Vieira</author>
+			<date>2014/6/23</date>
+			<additionalInformation>
+				Conference: Dependable Systems and Networks (DSN), 2014 44th Annual IEEE/IFIP International Conference on
+				Pages: 323-330
+			</additionalInformation>
+			<publisher>IEEE</publisher>
+			<description>
+				Abstract—Web Services are a set of technologies designed to support the invocation of  
+				remote services by client applications, with the key goal of providing interoperable 
+				application-to-application interaction while supporting vendor and platform independence. 
+				The goal of this work is to study the real level of interoperability provided by these 
+				technologies through a massive experimental campaign involving a wide set of very popular 
+				frameworks for web services, implemented using seven different programming languages. ...
+			</description>			
+			<citationInformation>
+
+				<totalCitations>3</totalCitations>
+			
+				<citation format="Chicago" year="2015">
+					Elia, Ivano Alessandro, Nuno Laranjeiro, and Marco Vieira. "A Practical Approach Towards Automatic Testing of Web Services Interoperability." International Journal of Web Services Research (IJWSR) 12, no. 3 (2015): 78-103.
+				</citation>
+
+				<citation format="Chicago" year="2014">
+					Elia, Ivano Alessandro, Nuno Laranjeiro, and Marco Vieira. "A Field Perspective on the Interoperability of Web Services." In Services Computing (SCC), 2014 IEEE International Conference on, pp. 75-82. IEEE, 2014.
+				</citation>						
+
+				<citation format="Chicago" year="2014">
+					Elia, Ivano Alessandro, Nuno Laranjeiro, and Marco Vieira. "ITWS: An Extensible Tool for Interoperability Testing of Web Services." In Web Services (ICWS), 2014 IEEE International Conference on, pp. 409-416. IEEE, 2014.
+				</citation>
+
+			</citationInformation>
+		</publication>
+
+
+	</publications>
+</researcher>

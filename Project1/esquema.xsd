@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="researcher">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="name"/>
+        <xs:element ref="citations"/>
+        <xs:element ref="publications"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="name" type="xs:string"/>
+  <xs:element name="citations">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="total"/>
+        <xs:element maxOccurs="unbounded" ref="numberOfCitations"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="total" type="xs:integer"/>
+  <xs:element name="numberOfCitations">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:integer">
+          <xs:attribute name="year" use="required" type="xs:integer"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="publications">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="publication"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="publication">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="title"/>
+        <xs:element maxOccurs="unbounded" ref="author"/>
+        <xs:element ref="date"/>
+        <xs:element ref="additionalInformation"/>
+        <xs:element ref="publisher"/>
+        <xs:element ref="description"/>
+        <xs:element ref="citationInformation"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="title" type="xs:string"/>
+  <xs:element name="author" type="xs:string"/>
+  <xs:element name="date" type="xs:string"/>
+  <xs:element name="additionalInformation" type="xs:string"/>
+  <xs:element name="publisher" type="xs:NCName"/>
+  <xs:element name="description" type="xs:string"/>
+  <xs:element name="citationInformation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="totalCitations"/>
+        <xs:element maxOccurs="unbounded" ref="citation"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="totalCitations" type="xs:integer"/>
+  <xs:element name="citation">
+    <xs:complexType mixed="true">
+      <xs:attribute name="format" use="required" type="xs:NCName"/>
+      <xs:attribute name="year" use="required"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

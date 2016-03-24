@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type='text/xsl' href="formattedHTML.xsl" ?>
+<researcher>
+    <name>Nuno Laranjeiro</name>
+    <citations>
+        <total>112</total>
+        <numberOfCitations year="2010">6</numberOfCitations>
+        <numberOfCitations year="2011">11</numberOfCitations>
+        <numberOfCitations year="2012">22</numberOfCitations>
+        <numberOfCitations year="2013">27</numberOfCitations>
+        <numberOfCitations year="2014">22</numberOfCitations>
+        <numberOfCitations year="2015">23</numberOfCitations>
+        <numberOfCitations year="2016">1</numberOfCitations>
+    </citations>
+    <publications>
+        <publication>
+            <title>Robustness-Driven Resilience Evaluation of Self-Adaptive Software Systems</title>
+            <author>Javier Cámara</author>
+            <author>Rogério de Lemos</author>
+            <author>Nuno Laranjeiro</author>
+            <author>Rafael Ventura</author>
+            <author>Marco Vieira</author>
+            <date>2015/5/4</date>
+            <additionalInformation></additionalInformation>
+            <publisher>IEEE</publisher>
+            <description>Abstract—An increasingly important requirement for certain classes of software-intensive systems is the ability to self-adapt their structure and behavior at run-time when reacting to changes that may occur to the system, its environment, or its goals. A major challenge related to self-adaptive software systems is the ability to provide assurances of their resilience when facing changes. Since in these systems, the components that act as controllers of a target system incorporate highly complex software, there is the need to ...</description>
+            <citationInformation>
+                <totalCitations>1</totalCitations>
+                <citation format="Chicago" year="2015">Quinn, Heather, Zachary Baker, Tom Fairbanks, Justin L. Tripp, and George Duran. "Software Resilience and the Effectiveness of Software Mitigation in Microcontrollers." Nuclear Science, IEEE Transactions on 62, no. 6 (2015): 2532-2538.</citation>
+            </citationInformation>
+        </publication>
+        <publication>
+            <title>Characterizing the performance of web service frameworks under security attacks</title>
+            <author>Rui André Oliveira</author>
+            <author>Nuno Laranjeiro</author>
+            <author>Marco Vieira</author>
+            <date>2015/4/13</date>
+            <additionalInformation>Conference: Proceedings of the 30th Annual ACM Symposium on Applied Computing
+Pages: 1711-1718
+</additionalInformation>
+            <publisher>ACM</publisher>
+            <description>Abstract Web Services are a platform-independent technology that enables business processes to be accessible worldwide. In this context, web service frameworks play a key role as intermediate layers, offering support for interoperability and communication between providers and consumers. Due to their relevance in the overall infrastructure, frameworks are a frequent target of attacks trying to impact the performance of the provided services. This paper proposes an experimental approach for assessing the performance of web ...</description>
+            <citationInformation>
+                <totalCitations>1</totalCitations>
+                <citation format="Chicago" year="2015">Bulusu, Pranahita. "Detection of Lightweight Directory Access Protocol Query Injection Attacks in Web Applications." (2015).</citation>
+            </citationInformation>
+        </publication>
+        <publication>
+            <title>Understanding Interoperability Issues of Web Service Frameworks</title>
+            <author>Ivano Alessandro Elia</author>
+            <author>Nuno Laranjeiro</author>
+            <author>Marco Vieira</author>
+            <date>2014/6/23</date>
+            <additionalInformation>Conference: Dependable Systems and Networks (DSN), 2014 44th Annual IEEE/IFIP International Conference on
+Pages: 323-330
+</additionalInformation>
+            <publisher>IEEE</publisher>
+            <description>Abstract—Web Services are a set of technologies designed to support the invocation of remote services by client applications, with the key goal of providing interoperable application-to-application interaction while supporting vendor and platform independence. The goal of this work is to study the real level of interoperability provided by these technologies through a massive experimental campaign involving a wide set of very popular frameworks for web services, implemented using seven different programming languages. ...</description>
+            <citationInformation>
+                <totalCitations>3</totalCitations>
+                <citation format="Chicago" year="2015">Elia, Ivano Alessandro, Nuno Laranjeiro, and Marco Vieira. "A Practical Approach Towards Automatic Testing of Web Services Interoperability." International Journal of Web Services Research (IJWSR) 12, no. 3 (2015): 78-103.</citation>
+                <citation format="Chicago" year="2014">Elia, Ivano Alessandro, Nuno Laranjeiro, and Marco Vieira. "A Field Perspective on the Interoperability of Web Services." In Services Computing (SCC), 2014 IEEE International Conference on, pp. 75-82. IEEE, 2014.</citation>
+                <citation format="Chicago" year="2014">Elia, Ivano Alessandro, Nuno Laranjeiro, and Marco Vieira. "ITWS: An Extensible Tool for Interoperability Testing of Web Services." In Web Services (ICWS), 2014 IEEE International Conference on, pp. 409-416. IEEE, 2014.</citation>
+            </citationInformation>
+        </publication>
+        <publication>
+            <title>Testing the robustness of controllers for self-adaptive systems</title>
+            <author>Javier Cámara</author>
+            <author>Rogério de Lemos</author>
+            <author>Nuno Laranjeiro</author>
+            <author>Rafael Ventura</author>
+            <author>Marco Vieira</author>
+            <date>2014/1/23</date>
+            <additionalInformation>Journal: Journal of the Brazilian Computer Society
+Volume: 20
+Issue: 1
+Pages: 1
+</additionalInformation>
+            <publisher>Springer London</publisher>
+            <description>Abstract Self-adaptive systems are software-intensive systems endowed with the ability to respond to a variety of changes that may occur in their environment, goals, or the system itself by adapting their structure and behaviour at run-time in an autonomous way. Controllers are complex components incorporated in self-adaptive systems, which are crucial to their function since they are in charge of adapting the target system by executing actions through effectors, based on information monitored by probes. However, although ...</description>
+            <citationInformation>
+                <totalCitations>6</totalCitations>
+                <citation format="Chicago" year="2015">Fredericks, Erik M., and Betty HC Cheng. "Automated generation of adaptive test plans for self-adaptive systems." In Proceedings of the 10th International Symposium on Software Engineering for Adaptive and Self-Managing Systems, pp. 157-168. IEEE Press, 2015.</citation>
+                <citation format="Chicago" year="2015">Abuseta, Yousef, and Khaled Swesi. "Design Patterns for Self Adaptive Systems Engineering." arXiv preprint arXiv:1508.01330 (2015).</citation>
+                <citation format="Chicago" year="2014">Weyns, Danny, Nelly Bencomo, Radu Calinescu, Javier Camara, Carlo Ghezzi, Vincenzo Grassi, Lars Grunske et al. "Perpetual assurances in self-adaptive systems." In Assurances for Self-Adaptive Systems, Dagstuhl Seminar, vol. 13511. 2014.</citation>
+                <citation format="Chicago" year="2015">Hansel, Joachim, Thomas Vogel, and Holger Giese. "A Testing Scheme for Self-Adaptive Software Systems with Architectural Runtime Models." In Self-Adaptive and Self-Organizing Systems Workshops (SASOW), 2015 IEEE International Conference on, pp. 134-139. IEEE, 2015.</citation>
+                <citation format="Chicago" year="2014">Gil de La Iglesia, Didac. "A Formal Approach for Designing Distributed Self-Adaptive Systems." (2014).</citation>
+                <citation format="Chicago" year="2015">Abuseta, Yousef, and Khaled Swesi. "Towards a framework for testing and simulating self adaptive systems." In Software Engineering and Service Science (ICSESS), 2015 6th IEEE International Conference on, pp. 70-76. IEEE, 2015.</citation>
+            </citationInformation>
+        </publication>
+        <publication>
+            <title>A technique for deploying robust web services</title>
+            <author>Nuno Laranjeiro</author>
+            <author>Marco Vieira</author>
+            <author>Henrique Madeira</author>
+            <date>2014/1</date>
+            <additionalInformation>Journal: Services Computing, IEEE Transactions on
+Volume: 7
+Issue: 1
+Pages: 68-81
+</additionalInformation>
+            <publisher>IEEE</publisher>
+            <description>Abstract—Developing robust web services is a difficult task. Field studies show that a large number of web services are deployed with robustness problems (ie, presenting unexpected behaviors in the presence of invalid inputs). Although several techniques for the identification of robustness problems have been proposed in the past, there is no practical approach to automatically fix those problems. This paper proposes a mechanism that automatically fixes robustness problems in web services. The approach consists of using ...</description>
+            <citationInformation>
+                <totalCitations>7</totalCitations>
+                <citation format="Chicago" year="2014">Lanzaro, Anna, Roberto Natella, Stefan Winter, Domenico Cotroneo, and Neeraj Suri. "An empirical study of injected versus actual interface errors." In Proceedings of the 2014 International Symposium on Software Testing and Analysis, pp. 397-408. ACM, 2014.</citation>
+                <citation format="Chicago" year="2016">Natella, Roberto, Domenico Cotroneo, and Henrique S. Madeira. "Assessing Dependability with Software Fault Injection: A Survey." ACM Computing Surveys (CSUR) 48, no. 3 (2016): 44.</citation>
+                <citation format="Chicago" year="2015">Quinn, Heather, and Michael Wirthlin. "Validation Techniques for Fault Emulation of SRAM-based FPGAs." Nuclear Science, IEEE Transactions on 62, no. 4 (2015): 1487-1500.</citation>
+                <citation format="Chicago" year="2015">Thome, Julian, Lwin Khin Shar, and Lionel Briand. "Security slicing for auditing XML, XPath, and SQL injection vulnerabilities." In Software Reliability Engineering (ISSRE), 2015 IEEE 26th International Symposium on, pp. 553-564. IEEE, 2015.</citation>
+                <citation format="Chicago" year="2014">Cotroneo, Domenico, and Roberto Natella. "Towards Patching Memory Leak Bugs in Off-The-Shelf Software." In Software Reliability Engineering Workshops (ISSREW), 2014 IEEE International Symposium on, pp. 433-436. IEEE, 2014.</citation>
+                <citation format="Chicago">Wu, Yiqi, Fazhi He, Dejun Zhang, and Xiaoxia Li. "Service-Oriented Feature-Based Data Exchange for Cloud-Based Design and Manufacturing."</citation>
+                <citation format="Chicago" year="2015">Devi, V., and R. Kanagaselvi. "ENDORSE THE TRUSTFUL QoS TO CRAFT MASHUP/BUSINESS ORIENTED WEB SERVICES AND RECTIFY MALICIOUS ATTACKS." (2015).</citation>
+            </citationInformation>
+        </publication>
+        <publication>
+            <title>Towards evaluating the impact of data quality on service applications</title>
+            <author>Naghmeh Ivaki</author>
+            <author>Nuno Laranjeiro</author>
+            <author>Marco Vieira</author>
+            <date>2013/6/24</date>
+            <additionalInformation>Conference: Dependable Systems and Networks Workshop (DSN-W), 2013 43rd Annual IEEE/IFIP Conference on
+Pages: 1-7
+</additionalInformation>
+            <publisher>IEEE</publisher>
+            <description>Abstract—Service applications frequently make use of a relational database to store and retrieve data and rely on the correctness of this data to deliver service to clients. Despite this, relational databases do not provide support for complex data integrity restrictions, which have to be controlled by the application. As such, bugs present in service applications can easily lead to the storage of incorrect data that, at random instants can cause applications to fail and stop delivering service, which can severely impact clients, other applications, and ...</description>
+            <citationInformation>
+                <totalCitations>1</totalCitations>
+                <citation format="Chicago" year="2015">Laranjeiro, Nuno, Seyma Nur Soydemir, and Jorge Bernardino. "A Survey on Data Quality: Classifying Poor Data." In Dependable Computing (PRDC), 2015 IEEE 21st Pacific Rim International Symposium on, pp. 179-188. IEEE, 2015.</citation>
+            </citationInformation>
+        </publication>
+        <publication>
+            <title>Robustness evaluation of controllers in self-adaptive software systems</title>
+            <author>Javier Camara</author>
+            <author>Rogério de Lemos</author>
+            <author>Nuno Laranjeiro</author>
+            <author>Renato Ventura</author>
+            <author>Marco Vieira</author>
+            <date>2013/4/1</date>
+            <additionalInformation>Conference: Dependable Computing (LADC), 2013 Sixth Latin-American Symposium on
+Pages: 1-10
+</additionalInformation>
+            <publisher>IEEE</publisher>
+            <description>Abstract An increasingly important requirement for softwareintensive systems is the ability to self-manage by adapting their structure and behavior at run-time in an autonomous way as a response to a variety of changes that may occur to the system, its environment, or its goals. In particular, self-adaptive (or autonomic) systems incorporate complex software components that act as controllers of a target system by executing actions through effectors, based on information monitored by probes. However, although these controllers are ...</description>
+            <citationInformation>
+                <totalCitations>7</totalCitations>
+                <citation format="Chicago" year="2014">Cámara, Javier, Rogério de Lemos, Nuno Laranjeiro, Rafael Ventura, and Marco Vieira. "Testing the robustness of controllers for self-adaptive systems." Journal of the Brazilian Computer Society 20, no. 1 (2014): 1.</citation>
+                <citation format="Chicago" year="2014">Cámara, Javier, Pedro Correia, Rogério de Lemos, and Marco Vieira. "Empirical resilience evaluation of an architecture-based self-adaptive software system." In Proceedings of the 10th international ACM Sigsoft conference on Quality of software architectures, pp. 63-72. ACM, 2014.</citation>
+                <citation format="Chicago" year="2013">Rotondi Azevedo, Denise, Ana Maria Ambrosio, and Marco Vieira. "HLA Middleware Robustness and Scalability Evaluation in the Context of Satellite Simulators." In Dependable Computing (PRDC), 2013 IEEE 19th Pacific Rim International Symposium on, pp. 312-317. IEEE, 2013.</citation>
+                <citation format="Chicago" year="2015">Cámara, Javier, Rogério de Lemos, Nuno Laranjeiro, Rafael Ventura, and Marco Vieira. "Robustness-Driven Resilience Evaluation of Self-Adaptive Software Systems." (2015).</citation>
+                <citation format="Chicago" year="2014">Cámara, Javier, Rogério de Lemos, Nuno Laranjeiro, Rafael Ventura, and Marco Vieira. "Robustness evaluation of the rainbow framework for self-adaptation." In Proceedings of the 29th Annual ACM Symposium on Applied Computing, pp. 376-383. ACM, 2014.</citation>
+                <citation format="Chicago">da Silva, Carlos Eduardo. "5.34 Runtime Testing of Self-Adaptive Systems." Software Engineering for Self-Adaptive Systems: Assurances: 94.</citation>
+                <citation format="Chicago" year="2015">Robert, Max, Yu Sun, Thomas Goodwin, Hamilton Turner, Jeffrey H. Reed, and Jules White. "Software Frameworks for SDR." Proceedings of the IEEE 103, no. 3 (2015): 452-475.</citation>
+            </citationInformation>
+        </publication>
+        <publication>
+            <title>WSFAggressor: an extensible web service framework attacking tool</title>
+            <author>Rui André Oliveira</author>
+            <author>Nuno Laranjeiro</author>
+            <author>Marco Vieira</author>
+            <date>2012/12/6</date>
+            <additionalInformation>Conference: Proceedings of the Industrial Track of the 13th ACM/IFIP/USENIX International Middleware Conference
+Pages: 2
+</additionalInformation>
+            <publisher>ACM</publisher>
+            <description>Abstract This paper presents a tool for testing the security of web service frameworks. The tool implements a large set of attack types, defined based on previous security research studies, existing testing tools, and field experience. The motivation is that developers frequently build web services based on the assumption that the underlying frameworks are secure, which is not always the case. Despite the evident need for security in the platforms that support services, existing security testing tools are very limited. In practice, most tools ...</description>
+            <citationInformation>
+                <totalCitations>4</totalCitations>
+                <citation format="Chicago" year="2015">Oliveira, Rui André, Nuno Laranjeiro, and Marco Vieira. "Characterizing the performance of web service frameworks under security attacks." In Proceedings of the 30th Annual ACM Symposium on Applied Computing, pp. 1711-1718. ACM, 2015.</citation>
+                <citation format="Chicago" year="2015">Jan, Sadeeq, Cu D. Nguyen, and Lionel Briand. "Known XML Vulnerabilities Are Still a Threat to Popular Parsers and Open Source Systems." In Software Quality, Reliability and Security (QRS), 2015 IEEE International Conference on, pp. 233-241. IEEE, 2015.</citation>
+                <citation format="Chicago" year="2015">Oliveira, Rui André, Nuno Laranjeiro, and Marco Vieira. "Assessing the security of web service frameworks against Denial of Service attacks." Journal of Systems and Software 109 (2015): 18-31.</citation>
+                <citation format="Chicago" year="2013">Stage, Ludwig. "Entwurf einer Methodik zum Testen der Sicherheit von Web-Service-basierten Systemen." (2013).</citation>
+            </citationInformation>
+        </publication>
+        <publication>
+            <title>A robustness testing approach for SOAP Web services</title>
+            <author>Nuno Laranjeiro</author>
+            <author>Marco Vieira</author>
+            <author>Henrique Madeira</author>
+            <date>2012/9/1</date>
+            <additionalInformation>Journal: Journal of Internet Services and Applications
+Volume: 3
+Issue: 2
+Pages: 215-232
+</additionalInformation>
+            <publisher>Springer-Verlag</publisher>
+            <description>Abstract The use of Web services in enterprise applications is quickly increasing. In a Web services environment, providers supply a set of services for consumers. However, although Web services are being used in business-critical environments, there are no practical means to test or compare their robustness to invalid and malicious inputs. In fact, client applications are typically developed with the assumption that the services being used are robust, which is not always the case. Robustness failures in such environments are particularly dangerous ...</description>
+            <citationInformation>
+                <totalCitations>3</totalCitations>
+                <citation format="Chicago" year="2015">Besson, Felipe, Paulo Moura, Fabio Kon, and Dejan Milojicic. "Bringing Test-Driven Development to web service choreographies." Journal of Systems and Software 99 (2015): 135-154.</citation>
+                <citation format="Chicago" year="2013">Ivaki, Naghmeh, Nuno Laranjeiro, and Marco Vieira. "Towards evaluating the impact of data quality on service applications." In Dependable Systems and Networks Workshop (DSN-W), 2013 43rd Annual IEEE/IFIP Conference on, pp. 1-7. IEEE, 2013.</citation>
+                <citation format="Chicago" year="2014">Hourani, Mou'ath, Qusai Shambour, Ahmad Al-Zubidy, and Ali Al-Smadi. "Proposed design and implementation for RESTful web server." Journal of Software 9, no. 5 (2014): 1071-1080.</citation>
+            </citationInformation>
+        </publication>
+        <publication>
+            <title>Experimental evaluation of web service frameworks in the presence of security attacks</title>
+            <author>Rui Andre Oliveira</author>
+            <author>Nuno Laranjeiro</author>
+            <author>Marco Vieira</author>
+            <date>2012/6/24</date>
+            <additionalInformation>Conference: Services Computing (SCC), 2012 IEEE Ninth International Conference on
+Pages: 633-640
+</additionalInformation>
+            <publisher>IEEE</publisher>
+            <description>Abstract—Web services are increasingly being used to provide critical operations in business-to-business and safety-critical environments. In these environments the exploitation of security vulnerabilities may result in major damages in the services infrastructures, financial or reputation losses to the organizations involved, and other catastrophic consequences for the users and the environment. Web services frameworks are the basis for developers to create and deploy web services, and must provide a robust ...</description>
+            <citationInformation>
+                <totalCitations>7</totalCitations>
+                <citation format="Chicago" year="2013">Falkenberg, Andreas, Christian Mainka, Juraj Somorovsky, and Jörg Schwenk. "A new approach towards DoS penetration testing on web services." In Web Services (ICWS), 2013 IEEE 20th International Conference on, pp. 491-498. IEEE, 2013.</citation>
+                <citation format="Chicago" year="2012">Oliveira, Rui André, Nuno Laranjeiro, and Marco Vieira. "WSFAggressor: an extensible web service framework attacking tool." In Proceedings of the Industrial Track of the 13th ACM/IFIP/USENIX International Middleware Conference, p. 2. ACM, 2012.</citation>
+                <citation format="Chicago" year="2015">Oliveira, Rui André, Nuno Laranjeiro, and Marco Vieira. "Characterizing the performance of web service frameworks under security attacks." In Proceedings of the 30th Annual ACM Symposium on Applied Computing, pp. 1711-1718. ACM, 2015.</citation>
+                <citation format="Chicago">Bhandari, Lekha V., and Avinash P. Wadhe. "Enhancing Security Performance of SOAP in web services using RSA algorithm."</citation>
+                <citation format="Chicago">Datir, Ankita A., and Amit Sahu. "A Review on Enhancing Privacy Preservation of Web Service through Negotiation Mechanism."</citation>
+                <citation format="Chicago" year="2015">Oliveira, Rui André, Nuno Laranjeiro, and Marco Vieira. "Assessing the security of web service frameworks against Denial of Service attacks." Journal of Systems and Software 109 (2015): 18-31.</citation>
+                <citation format="Chicago" year="2013">Stage, Ludwig. "Entwurf einer Methodik zum Testen der Sicherheit von Web-Service-basierten Systemen." (2013).</citation>
+            </citationInformation>
+        </publication>
+        <publication>
+            <title>A Composed Approach for Automatic Classification of Web Services Robustness</title>
+            <author>Rui Oliveira</author>
+            <author>Nuno Laranjeiro</author>
+            <author>Marco Vieira</author>
+            <date>2011/7/4</date>
+            <additionalInformation>Conference: Services Computing (SCC), 2011 IEEE International Conference on
+Pages: 176-183
+</additionalInformation>
+            <publisher>IEEE</publisher>
+            <description>Abstract—Testing Web Services (WS) for robustness is a lengthy and arduous process. After testing a set of services, there is typically a very large quantity and variety of test results to be analyzed, which poses a challenge to the developer that has to manually process all results and identify the outputs that indicate the presence of bugs in the code. Previous research indicates that well-known automatic classification algorithms can be used to automate this step. However, the applicability of such algorithms is also limited, as they are frequently ...</description>
+            <citationInformation>
+                <totalCitations>2</totalCitations>
+                <citation format="Chicago" year="2015">Syed Mustafa, A., and Kumara Swamy. "Web Service classification using Multi-Layer Perceptron optimized with Tabu search." In Advance Computing Conference (IACC), 2015 IEEE International, pp. 290-294. IEEE, 2015.</citation>
+                <citation format="Chicago" year="2013">Bozkurt, Mustafa. "Automated Realistic Test Input Generation and Cost Reduction in Service-centric System Testing." PhD diss., UCL (University College London), 2013.</citation>
+            </citationInformation>
+        </publication>
+        <publication>
+            <title>WSRTesting: Hands-on Solution to Improve Web Services Robustness Testing</title>
+            <author>G Carrozza</author>
+            <author>A Napolitano</author>
+            <author>N Laranjeiro</author>
+            <author>M Viera</author>
+            <date>2011/4/25</date>
+            <additionalInformation>Conference: Dependable Computing Workshops (LADCW), 2011 Fifth Latin-American Symposium on
+Pages: 41-46
+</additionalInformation>
+            <publisher>IEEE</publisher>
+            <description>Abstract-Web services are widely used as software components that must provide a robust interface to client applications. Robustness testing is an approach particularly suitable for detecting robustness issues in web services. In fact, several research works have been conducted in the past leading to the proposal of different robustness testing techniques for such environments. However, although of utmost importance, most techniques do not consider the needs of complex systems and services as the ones being developed by the ...</description>
+            <citationInformation>
+                <totalCitations>1</totalCitations>
+                <citation format="Chicago" year="2013">Bozkurt, Mustafa. "Automated Realistic Test Input Generation and Cost Reduction in Service-centric System Testing." PhD diss., UCL (University College London), 2013.</citation>
+            </citationInformation>
+        </publication>
+        <publication>
+            <title>A Learning-Based Approach to Secure Web Services from SQL/XPath Injection Attacks</title>
+            <author>Nuno Laranjeiro</author>
+            <author>Marco Vieira</author>
+            <author>Henrique Madeira</author>
+            <date>2010/12/13</date>
+            <additionalInformation>Conference: Dependable Computing (PRDC), 2010 IEEE 16th Pacific Rim International Symposium on
+Pages: 191-198
+</additionalInformation>
+            <publisher>IEEE</publisher>
+            <description>Abstract—Business critical applications are increasingly being deployed as web services that access database systems, and must provide secure operations to its clients. Although the open web environment emphasizes the need for security, several studies show that web services are still being deployed with command injection vulnerabilities. This paper proposes a learning-based approach to secure web services against SQL and XPath Injection attacks. Our approach is able to transparently learn valid request patterns ( ...</description>
+            <citationInformation>
+                <totalCitations>2</totalCitations>
+                <citation format="Chicago" year="2013">Gupta, Abhinav Nath, and P. Santhi Thilagam. "Attacks on Web Services Need to Secure XML on Web." Computer Science &amp; Engineering 3, no. 5 (2013): 1.</citation>
+                <citation format="Chicago" year="2014">Silva, Carlo Marcelo Revoredo da. "Aegis: Um Modelo de Proteção à Dados Sensíveis em Ambientes Client-side." (2014).</citation>
+            </citationInformation>
+        </publication>
+        <publication>
+            <title>Applying Text Classification Algorithms in Web Services Robustness Testing</title>
+            <author>Nuno Laranjeiro</author>
+            <author>Rui Oliveira</author>
+            <author>Marco Vieira</author>
+            <date>2010/10/31</date>
+            <additionalInformation>Conference: Reliable Distributed Systems, 2010 29th IEEE Symposium on
+Pages: 255-264
+</additionalInformation>
+            <publisher>IEEE</publisher>
+            <description>Abstract—Testing web services for robustness is an effective way of disclosing software bugs. However, when executing robustness tests, a very large amount of service responses has to be manually classified to distinguish regular responses from responses that indicate robustness problems. Besides requiring a large amount of time and effort, this complex classification process can easily lead to errors resulting from the human intervention in such a laborious task. Text classification algorithms have been applied successfully in many ...</description>
+            <citationInformation>
+                <totalCitations>11</totalCitations>
+                <citation format="Chicago" year="2013">Bozkurt, Mustafa, Mark Harman, and Youssef Hassoun. "Testing and verification in service‐oriented architecture: a survey." Software Testing, Verification and Reliability 23, no. 4 (2013): 261-313.</citation>
+                <citation format="Chicago" year="2013">Shahrokni, Ali, and Robert Feldt. "A systematic review of software robustness." Information and Software Technology 55, no. 1 (2013): 1-17.</citation>
+                <citation format="Chicago" year="2014">Laranjeiro, Nuno, Marco Vieira, and Henrique Madeira. "A technique for deploying robust web services." Services Computing, IEEE Transactions on 7, no. 1 (2014): 68-81.</citation>
+                <citation format="Chicago" year="2012">Laranjeiro, Nuno, Marco Vieira, and Henrique Madeira. "A robustness testing approach for SOAP Web services." Journal of Internet Services and Applications 3, no. 2 (2012): 215-232.</citation>
+                <citation format="Chicago" year="2012">Lemos, Gizelle Sandrini, and Eliane Martins. "Specification-guided golden run for analysis of robustness testing results." In Software Security and Reliability (SERE), 2012 IEEE Sixth International Conference on, pp. 157-166. IEEE, 2012.</citation>
+                <citation format="Chicago" year="2011">Oliveira, Rui, Nuno Laranjeiro, and Marco Vieira. "A Composed Approach for Automatic Classification of Web Services Robustness." In Services Computing (SCC), 2011 IEEE International Conference on, pp. 176-183. IEEE, 2011.</citation>
+                <citation format="Chicago" year="2012">Hongjian, Guo, and Chen Yifei. "Web Classification Algorithm Using Support Vector Machine and Particle Swarm Optimization." International Journal of Advancements in Computing Technology 4, no. 17 (2012).</citation>
+                <citation format="Chicago" year="2011">Ma, Ying, Fei Wang, and Jian Wu. "Locality Sensitive Hashing Based Service Classification." In Management and Service Science (MASS), 2011 International Conference on, pp. 1-5. IEEE, 2011.</citation>
+                <citation format="Chicago" year="2013">Di Leo, Domenico. "Robustness Evaluation of Software Systems through Fault Injection." (2013).</citation>
+                <citation format="Chicago" year="2013">Bozkurt, Mustafa. "Automated Realistic Test Input Generation and Cost Reduction in Service-centric System Testing." PhD diss., UCL (University College London), 2013.</citation>
+                <citation format="Chicago" year="2014">Mustafa, A. Syed, and Y. S. Kumaraswamy. "Data mining algorithms for Web-services classification." In Contemporary Computing and Informatics (IC3I), 2014 International Conference on, pp. 951-956. IEEE, 2014.</citation>
+            </citationInformation>
+        </publication>
+        <publication>
+            <title>Effective Detection of SQL/XPath Injection Vulnerabilities in Web Services</title>
+            <author>Nuno Antunes</author>
+            <author>Nuno Laranjeiro</author>
+            <author>Marco Vieira</author>
+            <author>Henrique Madeira</author>
+            <date>2009/9/21</date>
+            <additionalInformation>Conference: Services Computing, 2009. SCC'09. IEEE International Conference on
+Pages: 260-267
+</additionalInformation>
+            <publisher>IEEE</publisher>
+            <description>Abstract This paper proposes a new automatic approach for the detection of SQL Injection and XPath Injection vulnerabilities, two of the most common and most critical types of vulnerabilities in web services. Although there are tools that allow testing web applications against security vulnerabilities, previous research shows that the effectiveness of those tools in web services environments is very poor. In our approach a representative workload is used to exercise the web service and a large set of SQL/XPath Injection attacks are ...</description>
+            <citationInformation>
+                <totalCitations>60</totalCitations>
+                <citation format="Chicago" year="2010">Antunes, Nuno, and Marco Vieira. "Benchmarking vulnerability detection tools for web services." In Web Services (ICWS), 2010 IEEE International Conference on, pp. 203-210. IEEE, 2010.</citation>
+                <citation format="Chicago" year="2011">Antunes, Nuno, and Marco Vieira. "Enhancing penetration testing with attack signatures and interface monitoring for the detection of injection vulnerabilities in web services." In Services Computing (SCC), 2011 IEEE International Conference on, pp. 104-111. IEEE, 2011.</citation>
+                <citation format="Chicago" year="2014">Appelt, Dennis, Cu Duy Nguyen, Lionel C. Briand, and Nadia Alshahwan. "Automated testing for SQL injection vulnerabilities: an input mutation approach." In Proceedings of the 2014 International Symposium on Software Testing and Analysis, pp. 259-269. ACM, 2014.</citation>
+                <citation format="Chicago" year="2010">Madan, Sushila. "Security Standards Perspective to Fortify Web Database Applications From Code Injection Attacks." In Intelligent Systems, Modelling and Simulation (ISMS), 2010 International Conference on, pp. 226-230. IEEE, 2010.</citation>
+                <citation format="Chicago" year="2012">Oliveira, Rui Andre, Nuno Laranjeiro, and Marco Vieira. "Experimental evaluation of web service frameworks in the presence of security attacks." In Services Computing (SCC), 2012 IEEE Ninth International Conference on, pp. 633-640. IEEE, 2012.</citation>
+                <citation format="Chicago" year="2012">Wei, Tian, Yang Ju-Feng, Xu Jing, and Si Guan-Nan. "Attack model based penetration test for SQL injection vulnerability." In Computer Software and Applications Conference Workshops (COMPSACW), 2012 IEEE 36th Annual, pp. 589-594. IEEE, 2012.</citation>
+                <citation format="Chicago" year="2011">van der Loo, Frank. "Comparison of penetration testing tools for web applications." PhD diss., Master thesis, Radboud University Nijmegen, 2011. http://www. ru. nl/publish/pages/578936/frank_van_der_loo_scriptie. pdf, 2011.</citation>
+                <citation format="Chicago" year="2015">Antunes, Nuno, and Marco Vieira. "Assessing and Comparing Vulnerability Detection Tools for Web Services: Benchmarking Approach and Examples." Services Computing, IEEE Transactions on 8, no. 2 (2015): 269-283.</citation>
+                <citation format="Chicago" year="2012">Antunes, Nuno, and Marco Vieira. "Evaluating and improving penetration testing in web services." In Software Reliability Engineering (ISSRE), 2012 IEEE 23rd International Symposium on, pp. 201-210. IEEE, 2012.</citation>
+                <citation format="Chicago" year="2012">Oliveira, Rui André, Nuno Laranjeiro, and Marco Vieira. "WSFAggressor: an extensible web service framework attacking tool." In Proceedings of the Industrial Track of the 13th ACM/IFIP/USENIX International Middleware Conference, p. 2. ACM, 2012.</citation>
+                <citation format="Chicago" year="2013">Antunes, Nuno, and Marco Vieira. "Soa-scanner: An integrated tool to detect vulnerabilities in service-based infrastructures." In Services Computing (SCC), 2013 IEEE International Conference on, pp. 280-287. IEEE, 2013.</citation>
+                <citation format="Chicago" year="2013">Gupta, Abhinav Nath, and P. Santhi Thilagam. "Attacks on Web Services Need to Secure XML on Web." Computer Science &amp; Engineering 3, no. 5 (2013): 1.</citation>
+                <citation format="Chicago" year="2013">Antunes, Nuno, and Marco Vieira. "Security Testing in SOAs: Techniques and Tools." In Innovative Technologies for Dependable OTS-Based Critical Systems, pp. 159-174. Springer Milan, 2013.</citation>
+                <citation format="Chicago" year="2012">Asmawi, Aziah, Lilly Suriani Affendey, Nur Izura Udzir, and Ramlan Mahmod. "Model-based system architecture for preventing XPath injection in database-centric web services environment." In Computing and Convergence Technology (ICCCT), 2012 7th International Conference on, pp. 621-625. IEEE, 2012.</citation>
+                <citation format="Chicago" year="2014">Appelt, Dennis, Nadia Alshahwan, Duy Cu Nguyen, and Lionel Briand. Black-box sql injection testing. No. TR-SnT-2014-1. 2014.</citation>
+                <citation format="Chicago" year="2012">Shanmughaneethi, V., Ra Yagna Praveen, and S. Swamynathan. "CIVD: detection of command injection vulnerabilities in web services through aspect–oriented programming." International Journal of Computer Applications in Technology 44, no. 4 (2012): 312-320.</citation>
+                <citation format="Chicago" year="2014">Ghourabi, Abdallah, Tarek Abbes, and Adel Bouhoula. "Characterization of attacks collected from the deployment of Web service honeypot." Security and Communication Networks 7, no. 2 (2014): 338-351.</citation>
+                <citation format="Chicago" year="2011">Shanmughaneethi, Velu, Ra Yagna Pravin, and S. Swamynathan. "XIVD: Runtime Detection of XPath Injection Vulnerabilities in XML Databases through Aspect Oriented Programming." In Advances in Computing and Information Technology, pp. 192-201. Springer Berlin Heidelberg, 2011.</citation>
+                <citation format="Chicago" year="2013">Shafie, Emad. "Runtime Detection and Prevention for Structure Query Language Injection Attacks." (2013).</citation>
+                <citation format="Chicago" year="2013">Lei, Liu, Xu Jing, Li Minglei, and Yang Jufeng. "A Dynamic SQL injection vulnerability test case generation model based on the multiple phases detection approach." In Computer Software and Applications Conference (COMPSAC), 2013 IEEE 37th Annual, pp. 256-261. IEEE, 2013.</citation>
+                <citation format="Chicago" year="2010">Antunes, Nuno, and Marco Vieira. "Benchmarking vulnerability detection tools for web services." In Web Services (ICWS), 2010 IEEE International Conference on, pp. 203-210. IEEE, 2010.</citation>
+                <citation format="Chicago" year="2011">Antunes, Nuno, and Marco Vieira. "Enhancing penetration testing with attack signatures and interface monitoring for the detection of injection vulnerabilities in web services." In Services Computing (SCC), 2011 IEEE International Conference on, pp. 104-111. IEEE, 2011.</citation>
+                <citation format="Chicago" year="2014">Appelt, Dennis, Cu Duy Nguyen, Lionel C. Briand, and Nadia Alshahwan. "Automated testing for SQL injection vulnerabilities: an input mutation approach." In Proceedings of the 2014 International Symposium on Software Testing and Analysis, pp. 259-269. ACM, 2014.</citation>
+                <citation format="Chicago" year="2010">Madan, Sushila. "Security Standards Perspective to Fortify Web Database Applications From Code Injection Attacks." In Intelligent Systems, Modelling and Simulation (ISMS), 2010 International Conference on, pp. 226-230. IEEE, 2010.</citation>
+                <citation format="Chicago" year="2012">Oliveira, Rui Andre, Nuno Laranjeiro, and Marco Vieira. "Experimental evaluation of web service frameworks in the presence of security attacks." In Services Computing (SCC), 2012 IEEE Ninth International Conference on, pp. 633-640. IEEE, 2012.</citation>
+                <citation format="Chicago" year="2012">Wei, Tian, Yang Ju-Feng, Xu Jing, and Si Guan-Nan. "Attack model based penetration test for SQL injection vulnerability." In Computer Software and Applications Conference Workshops (COMPSACW), 2012 IEEE 36th Annual, pp. 589-594. IEEE, 2012.</citation>
+                <citation format="Chicago" year="2011">van der Loo, Frank. "Comparison of penetration testing tools for web applications." PhD diss., Master thesis, Radboud University Nijmegen, 2011. http://www. ru. nl/publish/pages/578936/frank_van_der_loo_scriptie. pdf, 2011.</citation>
+                <citation format="Chicago" year="2015">Antunes, Nuno, and Marco Vieira. "Assessing and Comparing Vulnerability Detection Tools for Web Services: Benchmarking Approach and Examples." Services Computing, IEEE Transactions on 8, no. 2 (2015): 269-283.</citation>
+                <citation format="Chicago" year="2012">Antunes, Nuno, and Marco Vieira. "Evaluating and improving penetration testing in web services." In Software Reliability Engineering (ISSRE), 2012 IEEE 23rd International Symposium on, pp. 201-210. IEEE, 2012.</citation>
+                <citation format="Chicago" year="2012">Oliveira, Rui André, Nuno Laranjeiro, and Marco Vieira. "WSFAggressor: an extensible web service framework attacking tool." In Proceedings of the Industrial Track of the 13th ACM/IFIP/USENIX International Middleware Conference, p. 2. ACM, 2012.</citation>
+                <citation format="Chicago" year="2013">Antunes, Nuno, and Marco Vieira. "Soa-scanner: An integrated tool to detect vulnerabilities in service-based infrastructures." In Services Computing (SCC), 2013 IEEE International Conference on, pp. 280-287. IEEE, 2013.</citation>
+                <citation format="Chicago" year="2013">Gupta, Abhinav Nath, and P. Santhi Thilagam. "Attacks on Web Services Need to Secure XML on Web." Computer Science &amp; Engineering 3, no. 5 (2013): 1.</citation>
+                <citation format="Chicago" year="2013">Antunes, Nuno, and Marco Vieira. "Security Testing in SOAs: Techniques and Tools." In Innovative Technologies for Dependable OTS-Based Critical Systems, pp. 159-174. Springer Milan, 2013.</citation>
+                <citation format="Chicago" year="2012">Asmawi, Aziah, Lilly Suriani Affendey, Nur Izura Udzir, and Ramlan Mahmod. "Model-based system architecture for preventing XPath injection in database-centric web services environment." In Computing and Convergence Technology (ICCCT), 2012 7th International Conference on, pp. 621-625. IEEE, 2012.</citation>
+                <citation format="Chicago" year="2014">Appelt, Dennis, Nadia Alshahwan, Duy Cu Nguyen, and Lionel Briand. Black-box sql injection testing. No. TR-SnT-2014-1. 2014.</citation>
+                <citation format="Chicago" year="2012">Shanmughaneethi, V., Ra Yagna Praveen, and S. Swamynathan. "CIVD: detection of command injection vulnerabilities in web services through aspect–oriented programming." International Journal of Computer Applications in Technology 44, no. 4 (2012): 312-320.</citation>
+                <citation format="Chicago" year="2014">Ghourabi, Abdallah, Tarek Abbes, and Adel Bouhoula. "Characterization of attacks collected from the deployment of Web service honeypot." Security and Communication Networks 7, no. 2 (2014): 338-351.</citation>
+                <citation format="Chicago" year="2011">Shanmughaneethi, Velu, Ra Yagna Pravin, and S. Swamynathan. "XIVD: Runtime Detection of XPath Injection Vulnerabilities in XML Databases through Aspect Oriented Programming." In Advances in Computing and Information Technology, pp. 192-201. Springer Berlin Heidelberg, 2011.</citation>
+                <citation format="Chicago" year="2013">Shafie, Emad. "Runtime Detection and Prevention for Structure Query Language Injection Attacks." (2013).</citation>
+                <citation format="Chicago" year="2013">Lei, Liu, Xu Jing, Li Minglei, and Yang Jufeng. "A Dynamic SQL injection vulnerability test case generation model based on the multiple phases detection approach." In Computer Software and Applications Conference (COMPSAC), 2013 IEEE 37th Annual, pp. 256-261. IEEE, 2013.</citation>
+                <citation format="Chicago" year="2010">Antunes, Nuno, and Marco Vieira. "Benchmarking vulnerability detection tools for web services." In Web Services (ICWS), 2010 IEEE International Conference on, pp. 203-210. IEEE, 2010.</citation>
+                <citation format="Chicago" year="2011">Antunes, Nuno, and Marco Vieira. "Enhancing penetration testing with attack signatures and interface monitoring for the detection of injection vulnerabilities in web services." In Services Computing (SCC), 2011 IEEE International Conference on, pp. 104-111. IEEE, 2011.</citation>
+                <citation format="Chicago" year="2014">Appelt, Dennis, Cu Duy Nguyen, Lionel C. Briand, and Nadia Alshahwan. "Automated testing for SQL injection vulnerabilities: an input mutation approach." In Proceedings of the 2014 International Symposium on Software Testing and Analysis, pp. 259-269. ACM, 2014.</citation>
+                <citation format="Chicago" year="2010">Madan, Sushila. "Security Standards Perspective to Fortify Web Database Applications From Code Injection Attacks." In Intelligent Systems, Modelling and Simulation (ISMS), 2010 International Conference on, pp. 226-230. IEEE, 2010.</citation>
+                <citation format="Chicago" year="2012">Oliveira, Rui Andre, Nuno Laranjeiro, and Marco Vieira. "Experimental evaluation of web service frameworks in the presence of security attacks." In Services Computing (SCC), 2012 IEEE Ninth International Conference on, pp. 633-640. IEEE, 2012.</citation>
+                <citation format="Chicago" year="2012">Wei, Tian, Yang Ju-Feng, Xu Jing, and Si Guan-Nan. "Attack model based penetration test for SQL injection vulnerability." In Computer Software and Applications Conference Workshops (COMPSACW), 2012 IEEE 36th Annual, pp. 589-594. IEEE, 2012.</citation>
+                <citation format="Chicago" year="2011">van der Loo, Frank. "Comparison of penetration testing tools for web applications." PhD diss., Master thesis, Radboud University Nijmegen, 2011. http://www. ru. nl/publish/pages/578936/frank_van_der_loo_scriptie. pdf, 2011.</citation>
+                <citation format="Chicago" year="2015">Antunes, Nuno, and Marco Vieira. "Assessing and Comparing Vulnerability Detection Tools for Web Services: Benchmarking Approach and Examples." Services Computing, IEEE Transactions on 8, no. 2 (2015): 269-283.</citation>
+                <citation format="Chicago" year="2012">Antunes, Nuno, and Marco Vieira. "Evaluating and improving penetration testing in web services." In Software Reliability Engineering (ISSRE), 2012 IEEE 23rd International Symposium on, pp. 201-210. IEEE, 2012.</citation>
+                <citation format="Chicago" year="2012">Oliveira, Rui André, Nuno Laranjeiro, and Marco Vieira. "WSFAggressor: an extensible web service framework attacking tool." In Proceedings of the Industrial Track of the 13th ACM/IFIP/USENIX International Middleware Conference, p. 2. ACM, 2012.</citation>
+                <citation format="Chicago" year="2013">Antunes, Nuno, and Marco Vieira. "Soa-scanner: An integrated tool to detect vulnerabilities in service-based infrastructures." In Services Computing (SCC), 2013 IEEE International Conference on, pp. 280-287. IEEE, 2013.</citation>
+                <citation format="Chicago" year="2013">Gupta, Abhinav Nath, and P. Santhi Thilagam. "Attacks on Web Services Need to Secure XML on Web." Computer Science &amp; Engineering 3, no. 5 (2013): 1.</citation>
+                <citation format="Chicago" year="2013">Antunes, Nuno, and Marco Vieira. "Security Testing in SOAs: Techniques and Tools." In Innovative Technologies for Dependable OTS-Based Critical Systems, pp. 159-174. Springer Milan, 2013.</citation>
+                <citation format="Chicago" year="2012">Asmawi, Aziah, Lilly Suriani Affendey, Nur Izura Udzir, and Ramlan Mahmod. "Model-based system architecture for preventing XPath injection in database-centric web services environment." In Computing and Convergence Technology (ICCCT), 2012 7th International Conference on, pp. 621-625. IEEE, 2012.</citation>
+                <citation format="Chicago" year="2014">Appelt, Dennis, Nadia Alshahwan, Duy Cu Nguyen, and Lionel Briand. Black-box sql injection testing. No. TR-SnT-2014-1. 2014.</citation>
+                <citation format="Chicago" year="2012">Shanmughaneethi, V., Ra Yagna Praveen, and S. Swamynathan. "CIVD: detection of command injection vulnerabilities in web services through aspect–oriented programming." International Journal of Computer Applications in Technology 44, no. 4 (2012): 312-320.</citation>
+                <citation format="Chicago" year="2014">Ghourabi, Abdallah, Tarek Abbes, and Adel Bouhoula. "Characterization of attacks collected from the deployment of Web service honeypot." Security and Communication Networks 7, no. 2 (2014): 338-351.</citation>
+                <citation format="Chicago" year="2011">Shanmughaneethi, Velu, Ra Yagna Pravin, and S. Swamynathan. "XIVD: Runtime Detection of XPath Injection Vulnerabilities in XML Databases through Aspect Oriented Programming." In Advances in Computing and Information Technology, pp. 192-201. Springer Berlin Heidelberg, 2011.</citation>
+                <citation format="Chicago" year="2013">Shafie, Emad. "Runtime Detection and Prevention for Structure Query Language Injection Attacks." (2013).</citation>
+                <citation format="Chicago" year="2013">Lei, Liu, Xu Jing, Li Minglei, and Yang Jufeng. "A Dynamic SQL injection vulnerability test case generation model based on the multiple phases detection approach." In Computer Software and Applications Conference (COMPSAC), 2013 IEEE 37th Annual, pp. 256-261. IEEE, 2013.</citation>
+            </citationInformation>
+        </publication>
+    </publications>
+</researcher>
